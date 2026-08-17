@@ -1,12 +1,12 @@
 # Evaluating the Career Achievements of Corbin Carroll
 
-This repository contains player analysis presentation materials and predictive statistical modeling research evaluating the career achievements and major league trajectory of MLB star outfielder Corbin Carroll.
+This repository contains player-analysis presentation materials and predictive statistical modeling research evaluating the career achievements and major-league trajectory of MLB star outfielder Corbin Carroll.
 
 
 ## 1. Motivation & Background
 
 * **WBC Context**: Due to flexible eligibility rules for citizenship in the World Baseball Classic (WBC), Taiwanese-American MLB star prospect Corbin Carroll attracted widespread attention over his potential eligibility to represent Chinese Taipei.
-* **MLB Performance**: In his 2023 rookie season, Carroll delivered a breakout performance—making the MLB All-Star Game as a starting outfielder, winning the National League Rookie of the Year award, and entering the NL MVP conversation.
+* **MLB Performance**: In his 2023 rookie season, Carroll delivered a breakout performance, making the MLB All-Star Game as a starting outfielder, winning the National League Rookie of the Year award, and entering the NL MVP conversation.
 * **Objective**: To examine the caliber of performance Carroll would bring to Chinese Taipei and introduce his technical attributes and potential career archetypes to Taiwanese baseball fans (using Statcast data cut off before the 2023 MLB All-Star Break).
 
 
